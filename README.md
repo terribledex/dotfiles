@@ -4,4 +4,6 @@
 
 # Containment
 - .zsh + .oh-my-zsh configuration
-- 
+- .tmux
+- main oh-my-posh themes
+- yazi config
